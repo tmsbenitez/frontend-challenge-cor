@@ -41,7 +41,7 @@ function Form({ addTask, setIsOpen, clickAwayListener }) {
 
   return (
     <form
-      className='flex flex-col w-[450px] z-10 p-10 rounded relative gap-4 border bg-white shadow-lg'
+      className='flex flex-col w-[450px] z-10 p-10 mx-6 rounded relative gap-4 border bg-white shadow-lg'
       onSubmit={handleSubmit}
       ref={ref}
     >

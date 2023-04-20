@@ -54,12 +54,12 @@ También se encuentran las siguientes funciones:
 
 Luego tiene un `useEffect` el cual recibe como dependencia nuestro estado `tasks`, lo que permite actualizar el `localStorage` cada vez que se cambia el valor de la dependencia.
 
-Por último retorna estas funcionalidades para que se llamen en nuestra App mediante el hook de `useTasks`.
+Por último retorna estas funcionalidades para que se llamen en nuestra App mediante el custom hook de `useTasks`.
 
 ### Nuevas funcionalidades:
 
 Decidí implementar un par de funcionalidades nuevas que me parecieron convenientes.
 
 - Filtros por prioridad.
-- Ordenamiento dscendente/descendente.
+- Ordenamiento ascendente/descendente.
 - Paginado con react-paginate.
