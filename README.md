@@ -1,6 +1,6 @@
 # 📝 TODO LIST - Challenge Front-end COR.
 
-# [Live demo](https://tmsbenitez.github.io/frontend-challenge-cor/)
+# [Live demo](https://frontend-challenge-cor.vercel.app)
 
 ## Librerías que se utilizaron:
 
