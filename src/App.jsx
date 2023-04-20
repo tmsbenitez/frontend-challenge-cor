@@ -13,7 +13,7 @@ function App() {
   const [isOpen, setIsOpen] = useState(false)
   const handleClick = () => setIsOpen(true)
 
-  // Añade un listener de eventos para que cuando se hace clic afuera o se presiona Esc, cerrarla
+  // Añade un listener de eventos para que cuando se hace clic afuera o se presiona Esc, cerrar el componente
   const clickAwayListener = (ref, toggle) => {
     const handleClickAway = event => {
       if (ref.current && !ref.current.contains(event.target)) {
