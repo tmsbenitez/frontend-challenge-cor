@@ -1,6 +1,6 @@
 # 📝 TODO LIST
 
-# [Live demo](https://frontend-challenge-cor.vercel.app)
+# [Live demo](https://todo-list-tmsbenitez.vercel.app)
 
 ## Librerías que se utilizaron:
 
