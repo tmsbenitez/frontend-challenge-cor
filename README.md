@@ -1,4 +1,4 @@
-# 📝 TODO LIST - Challenge Front-end COR.
+# 📝 TODO LIST
 
 # [Live demo](https://frontend-challenge-cor.vercel.app)
 
